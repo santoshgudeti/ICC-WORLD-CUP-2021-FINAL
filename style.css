@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+}
+h1{
+    color:red;
+    text-align :center;
+    background-color: white;
+    padding: 30px;
+}
+hr{
+   border: 2px solid GREEN;
+}
+h2{
+
+   
+   width: 100%;
+   text-align: center;
+}
+h3{
+   
+   background-coloR:YELLOW;	
+   width: 100%;
+   text-align: center;
+}
+form{
+   text-align: center;
+   background-color: yellow;
+   width: 100%;
+}
+
+nav {
+
+   background-color:RED;
+   padding: 10px;
+}
+ul{
+list-style: none;
+}
+
+li{
+   
+   display: inline;
+   margin: 100px;
+}
+li a{
+   color:BLACK;
+}
+li a:hover{
+   color:YELLOW;
+}
+table, th, td {
+ border: 5px solid BROWN;
+ text-align: center;
+
+}
+
+
+footer{
+   background-color:RED;
+   color:RED;
+   padding: 5px;
+   text-align: center;
+}
+img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 40%;
+}
